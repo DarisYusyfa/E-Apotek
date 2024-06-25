@@ -20,7 +20,7 @@ const Banner = () => {
           </div>
         </div>
         <div className="flex-1 mt-6 md:mt-0">
-          <img src="/public/banner1.png" alt="Pharmacy Products" className="max-w-full rounded-lg shadow-md" />
+          <img src="/banner1.png" alt="Pharmacy Products" className="max-w-full rounded-lg shadow-md" />
         </div>
       </div>
     </div>

@@ -17,7 +17,7 @@ const Navbar = () => {
           </button>
         </div>
         <div className="hidden md:flex items-center space-x-2">
-          <img src="/public/logo.png" alt="Logo" className="h-8 w-8" />
+          <img src="logo.png" alt="Logo" className="h-8 w-8" />
           <div>
             <span className="text-blue-700 text-xl font-bold">MEDIKA NUSANTARA</span>
             <span className="text-gray-500 text-sm block">E-Pharmacy</span>
