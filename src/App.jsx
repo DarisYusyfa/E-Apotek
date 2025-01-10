@@ -5,6 +5,7 @@ import Promotions from './components/Promotions';
 import FeaturedProducts from './components/FeaturedProducts';
 import WhyUs from './components/WhyUs';
 import Footer from './components/Footer';
+import CommentSection from './components/CommentSection';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Promotions />
       <FeaturedProducts />
       <WhyUs />
+      <CommentSection />
       <Footer />
     </div>
   );
